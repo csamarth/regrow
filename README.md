@@ -7,8 +7,10 @@
 - [ ] Make server
   - [x] Setup MongoDB Atlas
   - [x] Connect Mongoose to GraphQL
-  - [x] Created Model and Schema
-  - [x] Created Database (small case)
+  - [x] Create Model and Schema
+  - [x] Create Database (lowercase)
+  - [x] Provide Encryption
+  - [ ] 
 - [ ] How to Run this project
 - [ ] Deploying it online
 - [ ] Host dev and prod environment
