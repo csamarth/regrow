@@ -1,11 +1,17 @@
 # To-Do
 
-- [ ] Get all dependencies and tech up to date
+- [x] Get all dependencies and tech up to date
 - [ ] Make static website
-  - [ ] Initialize Project 
-  - [ ] Setup GraphQL
+  - [x] Initialize Project 
+  - [x] Setup GraphQL
 - [ ] Make server
-  - [ ] Setup MongoDB Atlas
+  - [x] Setup MongoDB Atlas
+  - [x] Connect Mongoose to GraphQL
+  - [x] Created Model and Schema
+  - [x] Created Database (small case)
+- [ ] How to Run this project
+- [ ] Deploying it online
+- [ ] Host dev and prod environment
 
 # Regrow
 Regrow website
